@@ -131,7 +131,7 @@ These interactive filters allow users to explore specific customer segments, loc
 
 ## 📂 Project Files
 
-- 📊 **Excel Dashboard:** [View UPI Transaction Dashboard on Google Drive](https://docs.google.com/spreadsheets/d/18LTgy1Ysbz3wNXQ6-GoL3RX00nnLzAnl/edit?usp=drive_link&ouid=115244497607529421298&rtpof=true&sd=true)
+- 📊 **Excel Dashboard:** [View UPI Transaction Dashboard on Google Drive](https://drive.google.com/drive/u/1/my-drive)
 - 📸 **Dashboard Preview:** Available in the repository below.
 
 
