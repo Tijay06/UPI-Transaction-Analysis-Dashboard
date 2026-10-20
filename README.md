@@ -1,5 +1,5 @@
 
-# 🇮🇳 UPI Transaction Analysis Dashboard | Advanced Excel
+# UPI Transaction Analysis Dashboard | Advanced Excel
 
 An interactive **UPI Transaction Analysis Dashboard** built entirely in Microsoft Excel to analyze approximately **500,000 UPI transactions across India**. This project uses PivotTables, PivotCharts, interactive slicers, advanced Excel formulas, and professional dashboard formatting to analyze transaction trends, banking performance, payment methods, and potential fraud indicators.
 
@@ -128,6 +128,11 @@ These interactive filters allow users to explore specific customer segments, loc
 | Project Type | Interactive Data Analytics Dashboard |
 | Data Source | Dataset sourced from a YouTube channel project/tutorial |
 
+
+## 📂 Project Files
+
+- 📊 **Excel Dashboard:** [View UPI Transaction Dashboard on Google Drive]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://docs.google.com/spreadsheets/d/1yBZPQZCpHitignhXF7ExQJMKamfj4hle/edit?usp=drive_link&ouid=115244497607529421298&rtpof=true&sd=true))
+- 📸 **Dashboard Preview:** Available in the repository below.
 
 
 ## ⭐ Support
